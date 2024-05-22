@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+	],
+	"settings": {
+		"files.associations": {
+			"*.i": "c",
+			"ASM.C": "cpp",
+			"APP.C": "cpp",
+			"ADC.C": "cpp",
+			"需求.C": "cpp"
+		}
+	}
+}
